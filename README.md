@@ -1,2 +1,3 @@
 # MDPNet
-[]('images/architecture.png')
+![Architecture](images/architecture.png)
+
