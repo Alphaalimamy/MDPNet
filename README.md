@@ -1,11 +1,11 @@
 # MDPNet
-![Architecture](images/architecture.PNG)
+![Architecture](images/Overall_architecture.pdf)
 
 
 
-![LMAP_NMAP](images/lmap_nmap.PNG)
+![LMAP_NMAP](images/LMAP_NMAP.pdf)
 
-![DPfocus](images/dfocus.PNG)
+![DPfocus](images/DPFM.pdf)
 
 ## DATASETS
 1. [CVC-300](https://drive.google.com/file/d/1r_yec8wdYmH1Zf7azoK_iW5eorc_uCMV/view?usp=sharing)
