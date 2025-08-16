@@ -18,6 +18,7 @@
 4. [Kvasir](https://drive.google.com/file/d/1EtVSlCZksiUQMk7j7FuvhVCY74_5gZxx/view?usp=sharing)
 
 If you find this work useful, please cite our work: 
+```bibtex
 @ARTICLE{11079752,
   author={Kamara, Alpha Alimamy and He, Shiwen and Fofanah, Abdul Joseph and Xu, Rong and Chen, Yuehan},
   journal={IEEE Transactions on Medical Imaging}, 
@@ -27,4 +28,6 @@ If you find this work useful, please cite our work:
   number={},
   pages={1-1},
   keywords={Image segmentation;Accuracy;Colorectal cancer;Shape;Feature extraction;Cancer;Colonoscopy;Computer architecture;Data mining;Semantics;colorectal cancer;dynamic polyp-focus;non-local;multiscale attention-pooling;segmentation},
-  doi={10.1109/TMI.2025.3588503}}
+  doi={10.1109/TMI.2025.3588503}
+}
+```
